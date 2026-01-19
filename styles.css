@@ -59,6 +59,11 @@ nav {
     color: #3498db;
 }
 
+.nav-links a.active {
+    color: #3498db;
+    font-weight: bold;
+}
+
 /* Hero Section */
 .hero {
     margin-top: 60px;
